@@ -2,7 +2,6 @@
 # Display name
 title: Leonor Pires
 
-
 # Full name (for SEO)
 first_name: Leonor
 last_name: Pires
